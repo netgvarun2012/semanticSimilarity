@@ -3,6 +3,7 @@
 This notebook demonstrates calculating 2 sentences similarity scores by using **distilbert** Sentence transformer to get sentence level embeddings and then using 'cosine similarity' to get similarity score.
 
 It can quantify the degree of similarity between the two text-based on Semantic similarity. It assesses the degree to which two sentences are semantically equivalent to each other. 
+
 **1 means highly similar 0 means highly dissimilar**
 
 
